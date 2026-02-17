@@ -18,7 +18,7 @@ This dataset contains real-life used car listings. Each row represents one car a
 - `Model`: Car model
 
 ## ⚠️ Data Quality Notes
-- Some rows include missing or non-numeric values in `Price` (e.g., `NA`), so cleaning is required.
+- Some rows include missing or non-numeric values in `Price` for instance `NA` so we must cleaning .
 - Data types need conversion for numeric analysis (`Price`, `Mileage`, `EngineV`, `Year`).
 - Outliers exist (very high prices and unusual mileage), which is expected in real market data.
 

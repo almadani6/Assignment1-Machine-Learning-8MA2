@@ -1,9 +1,9 @@
-# Dataset Description - Assignment 1, Machine Learning-8MA2.
+#📁 Dataset Description - Assignment 1, Machine Learning-8MA2.
 
 ## Dataset Name
 `car-sales-saudia.csv`
 
-## Context
+##🧠 Context
 This dataset contains real-life used car listings. Each row represents one car advertisement with technical and market-related information.
 
 ## Columns
@@ -17,10 +17,10 @@ This dataset contains real-life used car listings. Each row represents one car a
 - `Year`: Manufacturing year
 - `Model`: Car model
 
-## Data Quality Notes
+##⚠️ Data Quality Notes
 - Some rows include missing or non-numeric values in `Price` (e.g., `NA`), so cleaning is required.
 - Data types need conversion for numeric analysis (`Price`, `Mileage`, `EngineV`, `Year`).
 - Outliers exist (very high prices and unusual mileage), which is expected in real market data.
 
-## EDA Goal
+##🎯 EDA Goal
 The goal is to explore patterns that affect car prices and prepare data for future machine learning (price prediction).

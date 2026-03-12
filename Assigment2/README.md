@@ -17,5 +17,3 @@ I used the same dataset from Assignment 1.
 5. Normalized `Price` and `Mileage`.
 6. Applied PCA.
 
-## Note
-Code is the same. I only changed comments/text to be shorter and clearer.
